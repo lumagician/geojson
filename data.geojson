@@ -5,7 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [ -73.9857, 40.7484 ]
+        "coordinates": [ 47.0, 7.0 ]
       },
       "properties": {
         "name": "Point 1"
@@ -15,7 +15,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [ -74.006, 40.7128 ]
+        "coordinates": [ 47.1, 7.0 ]
       },
       "properties": {
         "name": "Point 2"
