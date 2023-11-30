@@ -8,7 +8,8 @@
         "coordinates": [7.0, 47.0]
       },
       "properties": {
-        "name": "Point 1"
+        "name": "Point 1",
+        "Kanton": "Bern"
       }
     },
     {
@@ -18,7 +19,8 @@
         "coordinates": [7.1, 47.0]
       },
       "properties": {
-        "name": "Point 2"
+        "name": "Point 2",
+        "Kanton": "Bern"
       }
     },
     {
@@ -28,7 +30,8 @@
         "coordinates": [7.2, 47.0]
       },
       "properties": {
-        "name": "Point 3"
+        "name": "Point 3",
+        "Kanton": "Bern"
       }
     },
     {
@@ -38,7 +41,8 @@
         "coordinates": [7.3, 47.0]
       },
       "properties": {
-        "name": "Point 4"
+        "name": "Point 4",
+        "Kanton": "Bern"
       }
     },
     {
@@ -48,7 +52,8 @@
         "coordinates": [7.4, 47.0]
       },
       "properties": {
-        "name": "Point 5"
+        "name": "Point 5",
+        "Kanton": "Bern"
       }
     },
     {
@@ -58,7 +63,8 @@
         "coordinates": [7.5, 47.0]
       },
       "properties": {
-        "name": "Point 6"
+        "name": "Point 6",
+        "Kanton": "Solothurn"
       }
     },
     {
@@ -68,7 +74,8 @@
         "coordinates": [7.6, 47.0]
       },
       "properties": {
-        "name": "Point 7"
+        "name": "Point 7",
+        "Kanton": "Solothurn"
       }
     },
     {
@@ -78,7 +85,8 @@
         "coordinates": [7.7, 47.0]
       },
       "properties": {
-        "name": "Point 8"
+        "name": "Point 8",
+        "Kanton": "Solothurn"
       }
     },
     {
@@ -88,7 +96,8 @@
         "coordinates": [7.8, 47.0]
       },
       "properties": {
-        "name": "Point 9"
+        "name": "Point 9",
+        "Kanton": "Solothurn"
       }
     },
     {
@@ -98,7 +107,8 @@
         "coordinates": [7.9, 47.0]
       },
       "properties": {
-        "name": "Point 10"
+        "name": "Point 10",
+        "Kanton": "Solothurn"
       }
     }
   ]
